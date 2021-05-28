@@ -1,0 +1,63 @@
+---
+name: Evan
+surname: Munson
+position: "Data Scientist"
+address: "Bldg 61801, 2133 Cushing St, Sierra Vista, AZ 85613"
+phone: +1 520 454 7144
+profilepic: elm.jpg
+www: {"https://github.com/evan-l-munson"}
+email: "evan.l.munson@gmail.com"
+twitter: spot2ring
+github: evan-l-munson
+linkedin: evan-munson-50033b61
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "United States Army Data Scientist support decision makers at the Network Enterprise Technology Command (NETCOM)."
+output: vitae::twentyseconds
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Some stuff about me
+
+ * My primary coding language is: R
+ * I enjoy developing R packages.
+ * I have also started to enjoy developing Shiny Applications.
+ * I studied Operations Research in graduate school which started me down the path to be a data scientist.
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "B.S. Civil Engineering", "2006", "The University of Arizona", "Tucson, Arizona",
+  "M.S. Engineering Management", "2012", "Missouri University of Science and Technology", "Rolla, Missouri",
+  "M.S. Operations Research", "2018", "Air Force Institute of Technology", "Dayton, Ohio") %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Nobel Prizes
+
+```{r}
+tribble(
+  ~Year, ~Type, ~Desc,
+  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
+  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+) %>% 
+  brief_entries(
+    glue::glue("Nobel Prize in {Type}"),
+    Year, 
+    Desc
+  )
+```
+
+# Publications
+
+```{r}
+bibliography_entries("resume.bib") %>%
+  arrange(desc(author$family), issued)
+```
+
