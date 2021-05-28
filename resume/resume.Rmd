@@ -5,11 +5,11 @@ position: "Data Scientist"
 address: "Bldg 61801, 2133 Cushing St, Sierra Vista, AZ 85613"
 phone: +1 520 454 7144
 profilepic: elm.jpg
-www: {"https://github.com/evan-l-munson"}
 email: "evan.l.munson@gmail.com"
 twitter: spot2ring
 github: evan-l-munson
 linkedin: evan-munson-50033b61
+orcid: lkasdjflksdajf
 date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: "United States Army Data Scientist support decision makers at the Network Enterprise Technology Command (NETCOM)."
 output: vitae::twentyseconds
@@ -18,6 +18,8 @@ output: vitae::twentyseconds
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
+library(tibble)
+library(dplyr)
 ```
 
 # Some stuff about me
@@ -29,35 +31,35 @@ library(vitae)
 
 # Education
 
-```{r}
-library(tibble)
-tribble(
+```{r education} 
+tibble::tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
   "B.S. Civil Engineering", "2006", "The University of Arizona", "Tucson, Arizona",
   "M.S. Engineering Management", "2012", "Missouri University of Science and Technology", "Rolla, Missouri",
   "M.S. Operations Research", "2018", "Air Force Institute of Technology", "Dayton, Ohio") %>% 
-  detailed_entries(Degree, Year, Institution, Where)
+  vitae::detailed_entries(Degree, Year, Institution, Where)
 ```
 
-# Nobel Prizes
+# Selected Positions
 
-```{r}
-tribble(
-  ~Year, ~Type, ~Desc,
-  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
-  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
-) %>% 
-  brief_entries(
-    glue::glue("Nobel Prize in {Type}"),
-    Year, 
-    Desc
-  )
+```{r positions}
+tibble::tribble(
+  ~Position, ~Organization, ~Year, ~Description,
+  "Data Scientist ", "NETCOM - Fort Huachuca, AZ", "2018 - Present", "Data Science (R1J) qualified Operations Research System Analyst, serving as a data scientist in the NETCOM - Data Science Directorate.",
+  "Plans Officer", "USASOC - Fort Bragg, NC", "2015 - 2016", "Deputy Chief of Staff Construction Officer for the United States Army Special Operations Command (USASOC) that generates and sustains Army Special Operations Forces to conduct worldwide Special Operations.",
+  "Commander", "100th EN CO (T) - Fort Bragg, NC", "2014 - 2015", "Company Commander of the 100th Engineer Company (Topographic), with the responsibility to provide Geospatial Information and Services (GI&S) to strategic, operational, tactical and JIIM organizations.",
+  "OPS Officer", "27th EN BN (C)(A) - Fort Bragg, NC", "2014", "Battalion Assistant Operations Officer for a Global Response Force, Combat Airborne Engineer Battalion of over 900 Soldiers.",
+  "OPS Officer", "133rd CMT - Fort Bragg, NC", "2012 - 2014", "Real Property Officer and Facilities/Contract Construction Management Engineer (FCCME) for a 4,500 Soldier functional engineer brigade capable of deploying anywhere in the world within 96 hours to support XVIII Airborne Corps contingency missions or other Unified Commands requirements.  Deployed to support Operation Enduring Freedom 13.",
+  "Engineer Officer", "1-68 AR  - Fort Carson, CO", "2010 - 2012", "Battalion Engineer, Force Protection Officer and Linguist Manager for a Combined Arms Battalion of over 900 authorized armor, infantry, engineer and support Soldiers.",
+  "Executive Officer", "E Co. 1-68 AR - Fort Carson, CO", "2009 - 2010", "Executive Officer of a 102 Soldier Combat Engineering Company, deployed to Operation Iraqi Freedom 10-11; coordinates all mobility, countermobility, survivability and general engineering support for Battalion Task Force.",
+  "Platoon Leader", "E Co. 1-68 AR - Fort Carson, CO", "2007 - 2009", "Platoon leader of a 26 Soldier mechanized, divisional combat engineer platoon.  Deployed in support of Operation Iraqi Freedom 07-09.") %>% 
+  vitae::detailed_entries(Organization, Position, Year, Description)
 ```
 
 # Publications
 
-```{r}
-bibliography_entries("resume.bib") %>%
-  arrange(desc(author$family), issued)
+```{r publications}
+vitae::bibliography_entries("resume.bib") %>%
+  dplyr::arrange(desc(author$family), issued)
 ```
 
