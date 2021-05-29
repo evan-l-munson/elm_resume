@@ -12,16 +12,14 @@ output:
 
 ![Evan Munson](elm.jpg){width="80%"}
 
-<!-- ![Eric Scott](`r here::here("eric.png")`) -->
-
-United States Army, Data Science (R1J) qualified Operations Research System Analyst, serving as a data scientist in the NETCOM - Data Science Directorate.
+Operations Research System Analyst, Data Scientist
 
 ## Contact Info {#contact}
 
 -   <i class="fa fa-envelope"></i> [evan.l.munson\@gmail.com](mailto:evan.l.munson@gmail.com){.email}
 -   <i class="fa fa-github"></i> [github.com/evan-l-munson](https://github.com/evan-l-munson)
 -   <i class="fa fa-gitlab"></i> [gitlab.devforce.disa.mil/emunson](https://gitlab.devforce.disa.mil/emunson)
--   <i class="fa fa-linkedin"></i> [inkedin.com/in/evan-munson-50033b61/](https://inkedin.com/in/evan-munson-50033b61/)
+-   <i class="fa fa-linkedin"></i> [linkedin.com/in/evan-munson-50033b61/](https://linkedin.com/in/evan-munson-50033b61/)
 -   <i class="fa fa-phone"></i> +1 520 454 7144
 
 ## Skills {#skills}
@@ -43,7 +41,7 @@ Last updated on `r Sys.Date()`.
 
 ## Evan L. Munson {#title}
 
-### Operations Research System Analyst, Data Science
+United States Army, Data Science (R1J) qualified Operations Research System Analyst, serving as a data scientist in the NETCOM - Data Science Directorate.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -55,7 +53,7 @@ Dayton, OH
 
 2016--2018
 
-Thesis: Sentiment Analysis of Twitter Data.
+<!-- Thesis: Sentiment Analysis of Twitter Data. -->
 
 ### Missouri University of Science and Technology
 
@@ -101,7 +99,7 @@ Fort Bragg, NC
 
 ### Company Commander
 
-100th Engineer Company (Topographic)
+100th EN CO (T), 30th EN BN, 20th EN BDE
 
 Fort Bragg, NC
 
@@ -113,7 +111,7 @@ Fort Bragg, NC
 
 ### Assistant Operations Officer
 
-27th Engineer Battalion (C)(A)
+27th EN BN (C)(A), 20th EN BDE
 
 Fort Bragg, NC
 
@@ -125,18 +123,22 @@ Fort Bragg, NC
 
 ### Real Property Manager
 
-133rd Construction Management Team
+133rd CMT, 30th EN BN, 20th EN BDE
 
 Fort Bragg, NC / Afghanistan
 
--   Real Property Officer and Facilities/Contract Construction Management Engineer (FCCME) for a 4,500 Soldier functional engineer brigade capable of deploying anywhere in the world within 96 hours to support XVIII Airborne Corps contingency missions or other Unified Commands requirements.
+2012-2014
+
+-   Construction Management Team, Real Property Officer and Facilities/Contract Construction Management Engineer (FCCME) for a 4,500 Soldier functional engineer brigade capable of deploying anywhere in the world within 96 hours to support XVIII Airborne Corps contingency missions or other Unified Commands requirements.
 -   Deployed in support of Operation Enduring Freedom (Afghanistan) and planned the de-construction of ~150 bases with the CENTCOM Material Recovery Element (CMRE) to ensure the responsible retrograde of US forces from Afghanistan.
 
 ### Battalion Operations Officer
 
-1-68 AR
+1-68 AR, 3ABCT, 4ID
 
 Fort Carson, CO / Iraq
+
+2010--2012
 
 -   Battalion Engineer, Force Protection Officer and Linguist Manager for a Combined Arms Battalion of over 900 authorized armor, infantry, engineer and support Soldiers. 
 -   Responsible for the coordination and planning of all engineer related tasks and operations in Basra Province. 
@@ -144,118 +146,65 @@ Fort Carson, CO / Iraq
 
 ### Company Executive Offiver
 
-E. Co 1-68 AR
+E Co, 1-68 AR, 3ABCT, 4ID
 
 Fort Carson, CO / Iraq
 
+2009-2010
+
 -   Executive Officer of a 102 Soldier Combat Engineering Company deployed to Operation Iraqi Freedom 10; coordinates all mobility, countermobility, survivability and general engineering support for Battalion Task Force 1-68.
--   Responsible for managing and tracking the company's operations, training, supply, CBRN and arms room; coordinates all longs and short range training requirements and resources; assists in planning and executing company deployments and redeployments.
+-   Responsible for managing and tracking the company's operations, training, supply, CBRN and arms room; coordinates all longs and short range training requirements and resources; assists in planning and executing company deployments and redeployment.
 
-## Selected Teaching Experience {data-icon="chalkboard-teacher"}
+### Platoon Leader
 
-### Biostatistics using R
+E Co, 1-68 AR, 3ABCT, 4ID
 
-Tufts University
+Fort Carson, CO / Iraq
 
-Medford, MA
+2007-2009
 
-2016--2018
-
-<!--::: concise-->
-
--   Created companion [recitation section](https://github.com/Aariq/biotstatistics-recitation-2018) to Biostatistics course to teach introductory R with a focus on the Tidyverse <!--:::-->
-
-### Reproducible Workflows for Ecology Research
-
-Workshop presented at Tufts University
-
-Medford, MA
-
-Oct 2018
-
--   Developed [workshop](https://github.com/Aariq/Reproducibility-ERGO) for ecologists including use of R projects, project organization, authoring R packages, GitHub, and data archiving
-
-### R Notebooks: Richly annotate your statistical analyses and produce dynamic reports
-
-Workshop presented at Tufts University
-
-Medford, MA
-
-Jan 2018
-
--   Demonstrated uses of R Notebooks for biological research
--   Discussed value of readable, annotated code for reproducibility and collaboration
+-   Platoon leader of a 26 Soldier mechanized, divisional combat engineer platoon.
+-   Responsible for the readiness, training, morale, safety and welfare of 16 Soldiers and 10 Non-Commissioned Officers, and their families. 
+-   Direct and supervise mobility, countermobility, survivability, sustainment operations; and training support to a combined arms team during offensive and defensive operations for Task Force 1-68 Combined Arms Battalion
 
 ## Selected Presentations {data-icon="comment-alt"}
 
-### Multivariate Statistics for Ecology and Baked Goods
+### Determining Twitter Users Opinions using R
 
-First place winning talk for the Tufts Graduate Student Symposium.
+INFORMS Annual Meeting
 
-Medford, MA
+Phoenix, AZ
 
-March 2019
+-   Session SC52 - [Section Leaders & Research on Opinions and Facts.](https://www.abstractsonline.com/pp8/#!/4701/presentation/9472)
 
-**ER Scott**
-
-### Can pests rescue tea quality from climate change?
-
-First place winning talk for Entomological Society of America Joint Meeting, Plant-Insect Ecosystems student competition
-
-Vancouver, BC
-
-Nov 2018
-
-**ER Scott**, CM Orians
-
-### Generating and analyzing metabolomic data from tea plant volatiles
-
-Poster for Data Intensive Studies Center (DISC) Symposium at Tufts University
-
-Medford, MA
-
-Aug 2017
-
-**ER Scott**, N Kfoury
+2018
 
 ## Selected Publications {data-icon="file"}
 
-### Combined impacts of prolonged drought and warming on plant size and foliar chemistry
+### Sentiment Analysis of Twitter Data (saotd)
 
-Ann. Bot. (2019). <doi:10.1093/aob/mcz004>
-
-N/A
-
-2019
-
-CM Orians, R Schweiger, J Dukes, **ER Scott**, C Müller
-
-### Interactive effects of drought severity and simulated herbivory on tea (Camellia sinensis) volatile and non-volatile metabolites
-
-Environ. Exp. Bot. 157, 283--292 (2019). <doi:10.1016/j.envexpbot.2018.10.025>
+E. Munson, C. Smith, B. Boehmke, and J.Freels, (2019). <doi:10.21105/joss.00764>
 
 N/A
 
 2019
 
-**ER Scott**, X Li, N Kfoury, J Morimoto, WY Han, S Ahmed, SB Cash, TS Griffin, JR Stepp, A Robbat, CM Orians
+### Sentiment Analysis of Twitter Data
 
-### Striking changes in tea metabolites due to elevational effects
+E. Munson, C. Smith, B. Boehmke, and J.Freels, saotd:  sentiment analysis of twitter data, 2019.  R package version 0.2.0. https://github.com/evan-l-munson/saotd
 
-Food Chem. 264, 334--341 (2018). <doi:10.1007/978-981-13-2140-5>
+N/A
+
+2019
+
+### Sentiment Analysis of Twitter Data
+
+Munson, Evan L., Theses and Dissertations. 1853. https://scholar.afit.edu/etd/1853
 
 N/A
 
 2018
 
-N Kfoury, J Morimoto, A Kern, **ER Scott**, CM Orians, S Ahmed, TS Griffin, SB Cash, JR Stepp, D-Y Xue, C-L Long, A Robbat
 
-### Direct Contact Sorptive Extraction: A Robust Method for Sampling Plant Volatiles in the Field
 
-J. Agric. Food Chem. 65, 8501--8509 (2017). <doi:10.1016/j.foodchem.2018.05.040>
 
-N/A
-
-2017
-
-N Kfoury, **ER Scott**, CM Orians, A Robbat
