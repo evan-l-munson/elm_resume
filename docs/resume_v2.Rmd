@@ -1,0 +1,211 @@
+---
+title: "Evan L. Munson"
+author: Evan Munson
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: TRUE
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Evan Munson](elm.jpg){width="80%"}
+
+Operations Research System Analyst, Data Scientist
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [evan.l.munson\@gmail.com](mailto:evan.l.munson@gmail.com){.email}
+-   <i class="fa fa-github"></i> [github.com/evan-l-munson](https://github.com/evan-l-munson)
+-   <i class="fa fa-gitlab"></i> [gitlab.devforce.disa.mil/emunson](https://gitlab.devforce.disa.mil/emunson)
+-   <i class="fa fa-linkedin"></i> [linkedin.com/in/evan-munson-50033b61/](https://linkedin.com/in/evan-munson-50033b61/)
+-   <i class="fa fa-phone"></i> +1 520 454 7144
+
+## Skills {#skills}
+
+-   -Experienced in R and RStudio with emphasis on the Tidyverse.
+-   -Experienced in communicating to scientific and general public.
+-   -Shiny applications
+-   -Package development
+-   -Github and GitLab
+-   -Microsoft Office Tools
+
+## Disclaimer {#disclaimer}
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Evan L. Munson {#title}
+
+United States Army, Data Science (R1J) qualified Operations Research System Analyst, serving as a data scientist in the NETCOM - Data Science Directorate.
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### Air Force Institute of Technology
+
+M.S in Operations Research
+
+Dayton, OH
+
+2016--2018
+
+<!-- Thesis: Sentiment Analysis of Twitter Data. -->
+
+### Missouri University of Science and Technology
+
+M.S. in Engineering management
+
+Rolla, MO
+
+2011--2012
+
+### The University of Arizona
+
+B.S. in Civil Engineering
+
+Tucson, AZ
+
+2001--2006
+
+## Work Experience {data-icon="toolbox"}
+
+### Data Scientist
+
+Network Enterprise Technology Command
+
+Fort Huachuca, AZ
+
+2018--Present
+
+-   Data Science (R1J) qualified Operations Research System Analyst, serving as a data scientist in the NETCOM - Data Science Directorate.
+-   Responsible for multiple data science efforts, including predictive, prescriptive, and statistical modeling.
+-   Developed multiple R packages and Shiny applications.
+
+### Engineer Planner
+
+US Army Special Operations Command
+
+Fort Bragg, NC
+
+2015--2016
+
+-   Deputy Chief of Staff Construction Officer for the United States Army Special Operations Command (USASOC) that generates and sustains Army Special Operations Forces to conduct worldwide Special Operations.
+-   Responsible for the knowledge management of over 80GBs of organizational digital files on both unclassified and classified systems. 
+-   Responsible for the development and implementation of a new set of digital SOPs to govern the engineer sections digital files
+
+### Company Commander
+
+100th EN CO (T), 30th EN BN, 20th EN BDE
+
+Fort Bragg, NC
+
+2014--2015
+
+-   Responsibility to provide Geospatial Information and Services (GI&S) to strategic, operational, tactical and JIIM organizations.
+-   Plans, coordinates and executes both technical and tactical training for 118 Soldiers, NCOs and Officers.
+-   Recognized as being within the top seven of thirty leaders in the same peer group.
+
+### Assistant Operations Officer
+
+27th EN BN (C)(A), 20th EN BDE
+
+Fort Bragg, NC
+
+2014
+
+-   Battalion Assistant Operations Officer for a Global Response Force, Combat Airborne Engineer Battalion of over 900 Soldiers.
+-   Prepares detailed plans which support execution of training events and assigned battalion missions. 
+-   Oversees Battalion level training meetings and coordinates directly with seven subordinate level commanders to ensure all training requirements are met.
+
+### Real Property Manager
+
+133rd CMT, 30th EN BN, 20th EN BDE
+
+Fort Bragg, NC / Afghanistan
+
+2012-2014
+
+-   Construction Management Team, Real Property Officer and Facilities/Contract Construction Management Engineer (FCCME) for a 4,500 Soldier functional engineer brigade capable of deploying anywhere in the world within 96 hours to support XVIII Airborne Corps contingency missions or other Unified Commands requirements.
+-   Deployed in support of Operation Enduring Freedom (Afghanistan) and planned the de-construction of ~150 bases with the CENTCOM Material Recovery Element (CMRE) to ensure the responsible retrograde of US forces from Afghanistan.
+
+### Battalion Operations Officer
+
+1-68 AR, 3ABCT, 4ID
+
+Fort Carson, CO / Iraq
+
+2010--2012
+
+-   Battalion Engineer, Force Protection Officer and Linguist Manager for a Combined Arms Battalion of over 900 authorized armor, infantry, engineer and support Soldiers. 
+-   Responsible for the coordination and planning of all engineer related tasks and operations in Basra Province. 
+-   Responsible for coordination and synchronization with subordinate companies and Brigade Headquarters for all engineer related tasks and missions.
+
+### Company Executive Offiver
+
+E Co, 1-68 AR, 3ABCT, 4ID
+
+Fort Carson, CO / Iraq
+
+2009-2010
+
+-   Executive Officer of a 102 Soldier Combat Engineering Company deployed to Operation Iraqi Freedom 10; coordinates all mobility, countermobility, survivability and general engineering support for Battalion Task Force 1-68.
+-   Responsible for managing and tracking the company's operations, training, supply, CBRN and arms room; coordinates all longs and short range training requirements and resources; assists in planning and executing company deployments and redeployment.
+
+### Platoon Leader
+
+E Co, 1-68 AR, 3ABCT, 4ID
+
+Fort Carson, CO / Iraq
+
+2007-2009
+
+-   Platoon leader of a 26 Soldier mechanized, divisional combat engineer platoon.
+-   Responsible for the readiness, training, morale, safety and welfare of 16 Soldiers and 10 Non-Commissioned Officers, and their families. 
+-   Direct and supervise mobility, countermobility, survivability, sustainment operations; and training support to a combined arms team during offensive and defensive operations for Task Force 1-68 Combined Arms Battalion
+
+## Selected Presentations {data-icon="comment-alt"}
+
+### Determining Twitter Users Opinions using R
+
+INFORMS Annual Meeting
+
+Phoenix, AZ
+
+-   Session SC52 - [Section Leaders & Research on Opinions and Facts.](https://www.abstractsonline.com/pp8/#!/4701/presentation/9472)
+
+2018
+
+## Selected Publications {data-icon="file"}
+
+### Sentiment Analysis of Twitter Data (saotd)
+
+E. Munson, C. Smith, B. Boehmke, and J.Freels, (2019). <doi:10.21105/joss.00764>
+
+N/A
+
+2019
+
+### Sentiment Analysis of Twitter Data
+
+E. Munson, C. Smith, B. Boehmke, and J.Freels, saotd:  sentiment analysis of twitter data, 2019.  R package version 0.2.0. https://github.com/evan-l-munson/saotd
+
+N/A
+
+2019
+
+### Sentiment Analysis of Twitter Data
+
+Munson, Evan L., Theses and Dissertations. 1853. https://scholar.afit.edu/etd/1853
+
+N/A
+
+2018
+
+
+
+
