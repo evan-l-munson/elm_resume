@@ -20,7 +20,7 @@ Operations Research System Analyst, Data Scientist
 -   <i class="fa fa-envelope"></i> [evan.l.munson\@gmail.com](mailto:evan.l.munson@gmail.com){.email}
 -   <i class="fa fa-github"></i> [github.com/evan-l-munson](https://github.com/evan-l-munson)
 -   <i class="fa fa-gitlab"></i> [gitlab.devforce.disa.mil/emunson](https://gitlab.devforce.disa.mil/emunson)
--   <i class="fa fa-linkedin"></i> [linkedin.com/in/evan-munson-50033b61/](https://linkedin.com/in/evan-munson-50033b61/)
+-   <i class="fa fa-linkedin"></i> [linkedin.com/in/evan-munson](www.linkedin.com/in/evan-munson)
 -   <i class="fa fa-phone"></i> +1 520 454 7144
 
 ## Skills {#skills}
