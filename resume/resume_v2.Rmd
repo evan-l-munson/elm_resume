@@ -17,10 +17,11 @@ Operations Research System Analyst, Data Scientist
 
 ## Contact Info {#contact}
 
--   <i class="fa fa-envelope"></i> [evan.l.munson\@gmail.com](mailto:evan.l.munson@gmail.com){.email}
--   <i class="fa fa-github"></i> [github.com/evan-l-munson](https://github.com/evan-l-munson)
--   <i class="fa fa-gitlab"></i> [gitlab.devforce.disa.mil/emunson](https://gitlab.devforce.disa.mil/emunson)
--   <i class="fa fa-linkedin"></i> [linkedin.com/in/evan-munson](www.linkedin.com/in/evan-munson)
+-   <i class="fa fa-envelope"></i> [Email](mailto:evan.l.munson@gmail.com){.email}
+-   <i class="fa fa-github"></i> [GitHub](https://github.com/evan-l-munson)
+-   <i class="fa fa-gitlab"></i> [GitLab](https://gitlab.devforce.disa.mil/emunson)
+-   <i class="fa fa-linkedin"></i> [LinkedIn](www.linkedin.com/in/evan-munson)
+-   <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/spot2ring)
 -   <i class="fa fa-phone"></i> +1 520 454 7144
 
 ## Skills {#skills}
@@ -31,18 +32,19 @@ Operations Research System Analyst, Data Scientist
 -   -Package development
 -   -Github and GitLab
 -   -Microsoft Office Tools
+-   -Project Management
 
 ## Disclaimer {#disclaimer}
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
-Last updated on `r Sys.Date()`.
+Last updated on: `r format(Sys.Date(), "%d %B %Y")`.
 
 # Main
 
 ## Evan L. Munson {#title}
 
-United States Army, Data Science (R1J) qualified Operations Research System Analyst, serving as a data scientist in the NETCOM - Data Science Directorate.
+United States Army, Data Science (R1J) qualified Operations Research System Analyst, serving as the Chief, Data Science Operations in the NETCOM - Data Science Directorate.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -74,13 +76,37 @@ Tucson, AZ
 
 ## Work Experience {data-icon="toolbox"}
 
+<!-- ### Division ORSA -->
+
+<!-- 11th Airborne Division (Arctic) -->
+
+<!-- JBER, AK -->
+
+<!-- 2022--Present -->
+
+<!-- -   Division ORSA supporting All things Alaska (ATA). -->
+<!-- -   Supporting analysis of Alaska Suicides. -->
+
+### Chief, Data Science Operations
+
+Network Enterprise Technology Command
+
+Fort Huachuca, AZ
+
+2021--Present
+
+-   Leads the development and management of organizational functions, processes, and tools to support the
+operationalization of data science in NETCOM. 
+-   Applies methods from operations research, project management, systems analysis, and data science to perform assessments of key issues that affect the Army's strategic and operational-level networks. 
+-   Leads officers, NCOs, and civilians from across the directorate and NETCOM staff to develop and implement solutions to increase the effectiveness and efficiency of the command.
+
 ### Data Scientist
 
 Network Enterprise Technology Command
 
 Fort Huachuca, AZ
 
-2018--Present
+2018--2021
 
 -   Data Science (R1J) qualified Operations Research System Analyst, serving as a data scientist in the NETCOM - Data Science Directorate.
 -   Responsible for multiple data science efforts, including predictive, prescriptive, and statistical modeling.
@@ -182,6 +208,14 @@ Phoenix, AZ
 
 ## Selected Publications {data-icon="file"}
 
+### Sentiment Analysis of Twitter Data v0.3.0
+
+E. Munson, C. Smith, B. Boehmke, and J.Freels, saotd:  sentiment analysis of twitter data, 2021.  R package version 0.3.0. https://github.com/evan-l-munson/saotd
+
+N/A
+
+2021
+
 ### Sentiment Analysis of Twitter Data (saotd)
 
 E. Munson, C. Smith, B. Boehmke, and J.Freels, (2019). <doi:10.21105/joss.00764>
@@ -190,7 +224,7 @@ N/A
 
 2019
 
-### Sentiment Analysis of Twitter Data
+### Sentiment Analysis of Twitter Data v0.2.0
 
 E. Munson, C. Smith, B. Boehmke, and J.Freels, saotd:  sentiment analysis of twitter data, 2019.  R package version 0.2.0. https://github.com/evan-l-munson/saotd
 
