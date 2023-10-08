@@ -19,7 +19,7 @@ Operations Research System Analyst, Data Scientist
 
 -   <i class="fa fa-envelope"></i> [Email](mailto:evan.l.munson@gmail.com){.email}
 -   <i class="fa fa-github"></i> [GitHub](https://github.com/evan-l-munson)
--   <i class="fa fa-gitlab"></i> [GitLab](https://gitlab.devforce.disa.mil/emunson)
+<!-- -   <i class="fa fa-gitlab"></i> [GitLab](https://gitlab.devforce.disa.mil/emunson) -->
 -   <i class="fa fa-linkedin"></i> [LinkedIn](www.linkedin.com/in/evan-munson)
 -   <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/spot2ring)
 -   <i class="fa fa-phone"></i> +1 520 454 7144
@@ -44,7 +44,7 @@ Last updated on: `r format(Sys.Date(), "%d %B %Y")`.
 
 ## Evan L. Munson {#title}
 
-United States Army, Data Science (R1J) qualified Operations Research System Analyst, serving as the Chief, Data Science Operations in the NETCOM - Data Science Directorate.
+United States Army, Data Science (R1J) qualified Operations Research System Analyst (ORSA), serving as the Division ORSA for the 11th Airborne Division.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -60,7 +60,7 @@ Dayton, OH
 
 ### Missouri University of Science and Technology
 
-M.S. in Engineering management
+M.S. in Engineering Management, Certificate in Data Science.
 
 Rolla, MO
 
@@ -76,16 +76,16 @@ Tucson, AZ
 
 ## Work Experience {data-icon="toolbox"}
 
-<!-- ### Division ORSA -->
+### Division ORSA
 
-<!-- 11th Airborne Division (Arctic) -->
+11th Airborne Division
 
-<!-- JBER, AK -->
+JBER, AK
 
-<!-- 2022--Present -->
+2022--Present
 
-<!-- -   Division ORSA supporting All things Alaska (ATA). -->
-<!-- -   Supporting analysis of Alaska Suicides. -->
+-   Serves as the 11th Airborne Division's Operations Research Systems Analyst (ORSA); provides analytic expertise toward enhancing the Commander's understanding of the operating environment in both tactical and garrison settings.
+-   Responsibilities include applying qualitative and quantitative analysis to support planning activities; assisting the Division staff with developing models, methods, and tools to fulfill mission requirements; conducting assessments that measure the Division's readiness and its ability to conduct its mission; and concisely communicating results to decision makers.
 
 ### Chief, Data Science Operations
 
@@ -93,7 +93,7 @@ Network Enterprise Technology Command
 
 Fort Huachuca, AZ
 
-2021--Present
+2021--2022
 
 -   Leads the development and management of organizational functions, processes, and tools to support the
 operationalization of data science in NETCOM. 
@@ -207,6 +207,15 @@ Phoenix, AZ
 2018
 
 ## Selected Publications {data-icon="file"}
+
+
+### Sentiment Analysis of Twitter Data v0.3.1
+
+E. Munson, C. Smith, B. Boehmke, and J.Freels, saotd:  sentiment analysis of twitter data, 2021.  R package version 0.3.1. https://github.com/evan-l-munson/saotd
+
+N/A
+
+2023
 
 ### Sentiment Analysis of Twitter Data v0.3.0
 
