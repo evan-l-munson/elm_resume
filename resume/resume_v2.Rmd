@@ -22,7 +22,7 @@ Operations Research System Analyst, Data Scientist
 <!-- -   <i class="fa fa-gitlab"></i> [GitLab](https://gitlab.devforce.disa.mil/emunson) -->
 -   <i class="fa fa-linkedin"></i> [LinkedIn](www.linkedin.com/in/evan-munson)
 -   <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/spot2ring)
--   <i class="fa fa-phone"></i> +1 520 454 7144
+-   <i class="fa fa-phone"></i> 1 (602) 510-3047
 
 ## Skills {#skills}
 
