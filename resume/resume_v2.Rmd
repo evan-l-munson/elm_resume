@@ -31,8 +31,9 @@ Operations Research System Analyst, Data Scientist
 -   -Shiny applications
 -   -Package development
 -   -Github and GitLab
--   -Microsoft Office Tools
+-   -SharePoint and Power Bi
 -   -Project Management
+-   -Knowledge Management
 
 ## Disclaimer {#disclaimer}
 
@@ -44,7 +45,7 @@ Last updated on: `r format(Sys.Date(), "%d %B %Y")`.
 
 ## Evan L. Munson {#title}
 
-United States Army, Data Science (R1J) qualified Operations Research System Analyst (ORSA), serving as the Division ORSA for the 11th Airborne Division.
+United States Army, Data Science (R1J) qualified Operations Research System Analyst (ORSA), serving as the 11th Airborne Division's Deputy Command Data Officer and Division ORSA.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -76,13 +77,35 @@ Tucson, AZ
 
 ## Work Experience {data-icon="toolbox"}
 
+### Deputy, Command Data Office and Division ORSA
+
+11th Airborne Division
+
+JBER, AK
+
+2025--Present
+
+-   Serves as the Command Data Office Deputy for the 11th Airborne Division. Responsibilities include establishing, developing and operationalizing data operations, data engineering, data analysis and data literacy across the DIV.
+-   Support the Division applying qualitative and quantitative analysis to support planning activities; assisting the Division staff with developing models, methods, and tools to fulfill mission requirements; conducting assessments that measure the Division's readiness and its ability to conduct its mission; and concisely communicating results to decision makers.
+
+### Deputy, Knowledge Management and Division ORSA
+
+11th Airborne Division
+
+JBER, AK
+
+2023--2025
+
+-   Serves as the Knowledge Management Deputy for the 11th Airborne Division. Responsibilities include developing and implementing strategies and initiatives to enhance the Division's overall effectiveness and efficiency. 
+-   Support the Division applying qualitative and quantitative analysis to support planning activities; assisting the Division staff with developing models, methods, and tools to fulfill mission requirements; conducting assessments that measure the Division's readiness and its ability to conduct its mission; and concisely communicating results to decision makers.
+
 ### Division ORSA
 
 11th Airborne Division
 
 JBER, AK
 
-2022--Present
+2022--2023
 
 -   Serves as the 11th Airborne Division's Operations Research Systems Analyst (ORSA); provides analytic expertise toward enhancing the Commander's understanding of the operating environment in both tactical and garrison settings.
 -   Responsibilities include applying qualitative and quantitative analysis to support planning activities; assisting the Division staff with developing models, methods, and tools to fulfill mission requirements; conducting assessments that measure the Division's readiness and its ability to conduct its mission; and concisely communicating results to decision makers.
