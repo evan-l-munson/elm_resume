@@ -26,18 +26,17 @@ Operations Research System Analyst, Data Scientist
 
 ## Skills {#skills}
 
--   -Experienced in R and RStudio with emphasis on the Tidyverse.
 -   -Experienced in communicating to scientific and general public.
--   -Shiny applications
--   -Package development
--   -Github and GitLab
--   -SharePoint and Power Bi
+-   -Experienced in R and RStudio.
+-   -Shiny applications and R Package development
+-   -Palantir (Army Vantage and Maven Smart Systems)
+-   -Onebrief
 -   -Project Management
 -   -Knowledge Management
 
 ## Disclaimer {#disclaimer}
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+Made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on: `r format(Sys.Date(), "%d %B %Y")`.
 
