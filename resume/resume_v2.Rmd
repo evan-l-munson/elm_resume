@@ -21,18 +21,16 @@ Operations Research System Analyst, Data Scientist
 -   <i class="fa fa-github"></i> [GitHub](https://github.com/evan-l-munson)
 <!-- -   <i class="fa fa-gitlab"></i> [GitLab](https://gitlab.devforce.disa.mil/emunson) -->
 -   <i class="fa fa-linkedin"></i> [LinkedIn](www.linkedin.com/in/evan-munson)
--   <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/spot2ring)
+-   <i class="fa-brands fa-x-twitter"></i> [X](https://x.com/spot2ring)
 -   <i class="fa fa-phone"></i> 1 (602) 510-3047
 
 ## Skills {#skills}
 
--   -Experienced in communicating to scientific and general public.
--   -Experienced in R and RStudio.
--   -Shiny applications and R Package development
--   -Palantir (Army Vantage and Maven Smart Systems)
--   -Onebrief
--   -Project Management
--   -Knowledge Management
+-   -Palantir Foundry; Maven Smart System (MSS)  
+-   -R and RStudio; R Shiny application development; R package development  
+-   -Power BI; Microsoft 365  
+-   -Operations research, data visualization, and decision support  
+-   -Knowledge management; process design;
 
 ## Disclaimer {#disclaimer}
 
@@ -44,7 +42,7 @@ Last updated on: `r format(Sys.Date(), "%d %B %Y")`.
 
 ## Evan L. Munson {#title}
 
-United States Army, Data Science (R1J) qualified Operations Research System Analyst (ORSA), serving as the 11th Airborne Division's Deputy Command Data Officer and Division ORSA.
+Operations research and data/decision analytics leader serving as an active-duty U.S. Army Lieutenant Colonel at Army Sustainment Command. Brings 20+ years of leadership and technical experience applying operations research, data engineering, analytics, and decision-support methods to complex operational problems. Builds data products, analytical workflows, and stakeholder partnerships that turn complex information into usable decisions; planning retirement and transition to a mission-focused technology, defense, or data-product leadership role in 2029.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -76,13 +74,34 @@ Tucson, AZ
 
 ## Work Experience {data-icon="toolbox"}
 
+### ORSA, Special Activities Group
+
+Army Sustainment Command
+
+Rock Island Arsenal, IL
+
+2026--Present
+
+-   Serves as an Operations Research Systems Analyst (ORSA) for U.S. Army Sustainment Command, supporting data and decision-analytics initiatives across the Army sustainment enterprise. Scopes, develops, and deploys data products and analytical solutions using Army Vantage (Palantir Foundry) and Maven Smart Systems, integrating data engineering, data analysis, and data-science methods. Partners with stakeholders to translate operational requirements into usable, decision-ready information and repeatable analytical workflows.
+
+### Deputy, Operational Data Team and Division ORSA
+
+11th Airborne Division
+
+JBER, AK
+
+2025-2026
+
+-   Helped establish and operationalize the Division’s operational data capability, integrating data engineering, analytics, governance, and data-literacy practices into planning and decision-support processes.
+-   Led development and operationalization of Army Vantage and Maven Smart System capabilities and supporting workflows for the Division. Digitized and improved recurring decision-support products, including leadership update briefs, incident analysis, assessment working groups, and exercise-planning frameworks, improving the availability and usability of decision-ready information.
+
 ### Deputy, Command Data Office and Division ORSA
 
 11th Airborne Division
 
 JBER, AK
 
-2025--Present
+2024--2025
 
 -   Serves as the Command Data Office Deputy for the 11th Airborne Division. Responsibilities include establishing, developing and operationalizing data operations, data engineering, data analysis and data literacy across the DIV.
 -   Support the Division applying qualitative and quantitative analysis to support planning activities; assisting the Division staff with developing models, methods, and tools to fulfill mission requirements; conducting assessments that measure the Division's readiness and its ability to conduct its mission; and concisely communicating results to decision makers.
@@ -93,7 +112,7 @@ JBER, AK
 
 JBER, AK
 
-2023--2025
+2023--2024
 
 -   Serves as the Knowledge Management Deputy for the 11th Airborne Division. Responsibilities include developing and implementing strategies and initiatives to enhance the Division's overall effectiveness and efficiency. 
 -   Support the Division applying qualitative and quantitative analysis to support planning activities; assisting the Division staff with developing models, methods, and tools to fulfill mission requirements; conducting assessments that measure the Division's readiness and its ability to conduct its mission; and concisely communicating results to decision makers.
